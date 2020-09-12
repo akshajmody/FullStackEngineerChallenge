@@ -1,5 +1,7 @@
+## Akshaj Mahesh Mody
+
 # Full Stack Developer Challenge
-This is an interview challengs. Please feel free to fork. Pull Requests will be ignored.
+This is an interview challenge. Please feel free to fork. Pull Requests will be ignored.
 
 ## Requirements
 Design a web application that allows employees to submit feedback toward each other's performance review.
@@ -22,7 +24,7 @@ Design a web application that allows employees to submit feedback toward each ot
   * Most full stack web developers at PayPay currently use Java, Ruby on Rails, or Node.js on the server(with MySQL for the database), but feel free to use other tech if you prefer
 * Web app
   * Implementation of 2-5 web pages using a modern web framework (e.g. React or Angular) that talks to server side
-    * This should integrate with your API, but it's fine to use static responses for some of it 
+    * This should integrate with your API, but it's fine to use static responses for some of it
 * Document all assumptions made
 * Complete solutions aren't required, but what you do submit needs to run.
 
